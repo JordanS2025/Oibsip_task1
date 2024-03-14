@@ -84,7 +84,8 @@
         line: height 1.5;
         margin-bottom: 50px;
     }
-    img {
+        img 
+    {
         width: 100px;
         border-radius: 50px;
         float: left;
