@@ -10,7 +10,7 @@
     }
     section
     {
-        min-height: 100vh;
+        min-height: 200vh;
         background-image: linear-gradient(rgba(0, 0, 0, 0.60),rgba(0, 0, 0, 0.60)), url("../Images/The\ Promise\ Silkscreen\ Print\ by\ Kaws-\ Brian\ Donnelly.jpg");
         background-repeat: no-repeat;
         background-size: 100%;
